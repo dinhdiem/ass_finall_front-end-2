@@ -1,0 +1,230 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Điện thoại"
+    },
+    {
+      "id": 2,
+      "name": "LapTop"
+    },
+    {
+      "id": 3,
+      "name": "Máy tính bảng"
+    },
+    {
+      "id": 4,
+      "name": "Phụ kiện"
+    }
+  ],
+  "products": [
+    {
+      "id": 2,
+      "name": "MACBook Air 2022",
+      "img": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/m/a/mac_air.jpg",
+      "descLong": "Phone 12 ra mắt cách đây chưa lâu, thì những tin đồn mới nhất về iPhone 13 Pro Max đã khiến bao tín đồ công nghệ ngóng chờ. Cụm camera được nâng cấp, màu sắc mới, đặc biệt là màn hình 120Hz với phần notch được làm nhỏ gọn hơn chính là những điểm làm cho thu hút mọi sự chú ý trong năm nay",
+      "descShort": "1 ĐỔI 1 trong 30 ngày nếu có lỗi phần cứng",
+      "price": 32990000,
+      "salePrice": 31490000,
+      "amount": 1,
+      "categoryId": "2"
+    },
+    {
+      "img": "http://res.cloudinary.com/dv3vzmogk/image/upload/v1660001217/anhhtus/i82qczgtuicftecv5mma.jpg",
+      "descShort": "Sản phẩm độc và lạ",
+      "name": "AirPops 3",
+      "price": "31990000",
+      "salePrice": "213213213",
+      "category": "Phụ kiện",
+      "highlight": "Chip H1 mới nhất cho thời gian phản hồi nhanh cùng thời lượng pin lên đến 5 giờ\nTích hợp 2 Micro giúp khử tiếng ồn của môi trường cho chất lượng âm thanh rõ ràng khi đàm thoại",
+      "descLong": "Tai nghe Apple AirPods 2 – Thiết kế tối giản, chất lượng âm thanh tuyệt vời\nVừa qua, Apple đã chính thức cho ra mắt chiếc tai nghe Airpods 2. Thế hệ thứ 2 lần này không có nhiều sự khác biệt so với thế hệ đầu về ngoại hình, trừ một số chi tiết về đèn báo hiệu cũng như ra mắt thêm phiên bản sạc không dây và sạc thường (sạc có dây). Ngoài ra, bạn có thể tham khảo thêm Apple Airpods Pro, sắp được ra mắt trong thời gian tới.",
+      "amount": 1,
+      "id": 7
+    },
+    {
+      "img": "http://res.cloudinary.com/dv3vzmogk/image/upload/v1660001396/anhhtus/cty3rso0rfgrozi24knt.png",
+      "descShort": "Thơi lượng pin  5 giờ chơi nhạc - Hộp sạc : 24 giờ",
+      "name": "sản phẩm mới thêm",
+      "price": "31990000",
+      "salePrice": "31990000",
+      "category": "Phụ kiện",
+      "highlight": "Chip H1 mới nhất cho thời gian phản hồi nhanh cùng thời lượng pin lên đến 5 giờ\nTích hợp 2 Micro giúp khử tiếng ồn của môi trường cho ch",
+      "descLong": "ai nghe Apple AirPods 2 – Thiết kế tối giản, chất lượng âm thanh tuyệt vời\nVừa qua, Apple đã chính thức cho ra mắt chiếc tai nghe Airpods 2. Thế hệ thứ 2 lần này không có nhiều sự khác biệt so với thế hệ đầu về ngoại hình, trừ một số chi tiết về đèn báo hiệu cũng như ra mắt thêm phiên bản sạc không dây và",
+      "amount": 1,
+      "id": 8
+    },
+    {
+      "img": "http://res.cloudinary.com/dv3vzmogk/image/upload/v1660001774/anhhtus/uymhehrgawhvunatlpkm.png",
+      "descShort": "Thơi lượng pin  5 giờ chơi nhạc - Hộp sạc : 24 giờ",
+      "name": "sản phẩm mới thêm",
+      "price": "31990000",
+      "salePrice": "31990000",
+      "categoryId": "4",
+      "highlight": "Chip H1 mới nhất cho thời gian phản hồi nhanh cùng thời lượng pin lên đến 5 giờ\nTích hợp 2 Micro giúp khử tiếng ồn của môi trường cho chất lượng âm thanh rõ ràng khi đàm thoại",
+      "descLong": "Tai nghe Apple AirPods 2 – Thiết kế tối giản, chất lượng âm thanh tuyệt vời\nVừa qua, Apple đã chính thức cho ra mắt chiếc tai nghe Airpods 2. Thế hệ thứ 2 lần này không có nhiều sự khác biệt so với thế hệ đầu về ngoại hình, trừ một số chi tiết về đèn báo hiệu cũng như ra mắt thêm phiên bản sạc không dây và",
+      "amount": 1,
+      "id": 9
+    },
+    {
+      "img": "http://res.cloudinary.com/dv3vzmogk/image/upload/v1660002598/anhhtus/zxv6g01bizftmp22fomp.jpg",
+      "descShort": "Loại CPU  2 nhân 3.0GHz 4 nhân 1.8GHz",
+      "name": "sản phẩm mới thêm",
+      "price": "31990000",
+      "salePrice": "31990000",
+      "categoryId": "3",
+      "highlight": "Màn hình rõ nét, hiển thị tuyệt đẹp - Công nghệ Liquid Retina 10.9 inch\nHiệu suất đầu bảng, giải trí đỉnh cao - Vi xử lý A14 Bionic, RAM 4GB, loa kép chất lượng cao",
+      "descLong": "Apple luôn khiến cho cộng đồng công nghệ đứng ngồi không yên mỗi khi cho giới thiệu sản phẩm mới. iPad Air 4 được ra mắt tại sự kiện mà các tín đồ công nghệ nghĩ rằng Apple sẽ trình làng dòng điện thoại iPhone 12 2020, nhưng chiếc tablet này mới chính là nhân vật chính. iPad Air thế hệ 2020 mang những thay đổi về mặt thiết kế cũng như những tín",
+      "amount": 1,
+      "id": 10
+    },
+    {
+      "img": "http://res.cloudinary.com/dv3vzmogk/image/upload/v1660005173/anhhtus/aguwrnz71gy9hxppzrnv.jpg",
+      "descShort": "Kích thước màn hình  8.3 inches",
+      "name": "IPads Pro 2019",
+      "price": "31990000",
+      "salePrice": "31990000",
+      "categoryId": "3",
+      "highlight": "Mạnh mẽ bứt phá - Chip xử lý Apple A15 Bionic 6 nhân\nHiển thị sắc nét, mượt mà hơn - Màn hình IPS LCD 8,3 inch hỗ trợ True Tone\nPhá vỡ giới hạn sáng tạo - Hỗ trợ Apple Pencil 2, iPadOS 15 tiện ích hơn",
+      "descLong": "Với sự thành công của các thế hệ iPad mini trước iPad mini 6 là sản phẩm kế nhiệm mới với nhiều tính năng hiện kèm nhiều sự nâng cấp đáng chú ý dành cho người dùng trong năm nay. Nếu bạn đang có nhu cầu mua cho mình một chiếc máy tính bảng iPad để phục vụ cho nhu cầu sử dụng thì iPad Mini 6 sẽ là sự lựa chọn hoàn hảo cho bạn vào thời điểm này cho nhu cầu sử dụng tablet kích thước vừa phải.",
+      "amount": 1,
+      "id": 11
+    },
+    {
+      "img": "http://res.cloudinary.com/dv3vzmogk/image/upload/v1660005427/anhhtus/gpswcrb2y3x6xhfgtmit.jpg",
+      "descShort": "Kích thước màn hình  6.1 inches",
+      "name": "iPhone 13 128GB",
+      "price": "19000000",
+      "salePrice": "18000000",
+      "categoryId": "1",
+      "highlight": "1 ĐỔI 1 trong 30 ngày nếu có lỗi phần cứng nhà sản xuất. Bảo hành 12 tháng tại trung tâm bảo hành chính hãng Apple : Điện Thoại Vui ASP (Apple Authorized Service Provider)(xem chi tiết)\nPHỤ KIỆN MUA CÙNG\nSẢN PHẨM TƯƠNG TỰ\nTHAM KHẢO THÊM HÀNG CŨ\nPHỤ KIỆN mẫu Galaxy S22 mất giá trị gấp 3 lần iPhone 13 trong 2 tháng sau khi ra mắt",
+      "descLong": "Hiệu năng vượt trội - Chip Apple A15 Bionic mạnh mẽ, hỗ trợ mạng 5G tốc độ cao\nKhông gian hiển thị sống động - Màn hình 6.1\" Super Retina XDR độ sáng cao, sắc nét",
+      "amount": 1,
+      "id": 12
+    },
+    {
+      "img": "http://res.cloudinary.com/dv3vzmogk/image/upload/v1660005971/anhhtus/xiizsslhlnzy3zjsilxe.png",
+      "descShort": "Loại CPU  Hexa-core",
+      "name": "Iphone 12",
+      "price": "20000000",
+      "salePrice": "19000000",
+      "categoryId": "1",
+      "highlight": "Máy mới 100% , chính hãng Apple Việt Nam.\nCellphoneS hiện là đại lý bán lẻ uỷ quyền iPhone chính hãng VN/A của Apple Việt Nam",
+      "descLong": "Màu sắc phù hợp cá tính - 6 màu sắc bắt mắt để lựa chọn\nHiệu năng mượt mà, ổn định - Chip A13, RAM 4GB\nBắt trọn khung hình - Camera kép hỗ trợ góc rộng, chế độ Night Mode\nYên tâm sử dụng - Kháng nước, kháng bụi IP68, kính cường lực Gorilla Glass",
+      "amount": 1,
+      "id": 13
+    },
+    {
+      "img": "http://res.cloudinary.com/dv3vzmogk/image/upload/v1660006062/anhhtus/cgzga9pclsfedu2izxkk.jpg",
+      "descShort": "Loại CPU  Hexa-core",
+      "name": "Iphone 13",
+      "price": "19000000",
+      "salePrice": "18000000",
+      "categoryId": "1",
+      "highlight": "Màu sắc phù hợp cá tính - 6 màu sắc bắt mắt để lựa chọn\nHiệu năng mượt mà, ổn định - Chip A13, RAM 4GB\nBắt trọn khung hình - Camera kép hỗ trợ góc rộng, chế độ Night Mode\nYên tâm sử dụng - Kháng nước, kháng bụi IP68, kính cường lực Gorilla Glass",
+      "descLong": "Máy mới 100% , chính hãng Apple Việt Nam.\nCellphoneS hiện là đại lý bán lẻ uỷ quyền iPhone chính hãng VN/A của Apple Việt Nam",
+      "amount": 1,
+      "id": 14
+    },
+    {
+      "img": "http://res.cloudinary.com/dv3vzmogk/image/upload/v1660006128/anhhtus/p5jm1xvqjnmbzdbugiq3.jpg",
+      "descShort": "Thân máy, cáp USB-C to Lightning, sách HDSD",
+      "name": "Iphone 13",
+      "price": "19999000",
+      "salePrice": "19999000",
+      "categoryId": "1",
+      "highlight": "Màu sắc phù hợp cá tính - 6 màu sắc bắt mắt để lựa chọn\nHiệu năng mượt mà, ổn định - Chip A13, RAM 4GB\nBắt trọn khung hình - Camera kép hỗ trợ góc rộng, chế độ Night Mode\nYên tâm sử dụng - Kháng nước, kháng bụi IP68, kính cường lực Gorilla Glass",
+      "descLong": "Máy mới 100% , chính hãng Apple Việt Nam.\nCellphoneS hiện là đại lý bán lẻ uỷ quyền",
+      "amount": 1,
+      "id": 15
+    },
+    {
+      "img": "http://res.cloudinary.com/dv3vzmogk/image/upload/v1660006200/anhhtus/ibmmwsikgt4vv8jvbfyo.png",
+      "descShort": "Loại CPU  Hexa-core",
+      "name": "iPhone 11 128GB",
+      "price": "1321321321",
+      "salePrice": "1321321321",
+      "categoryId": "1",
+      "highlight": "Máy mới 100% , chính hãng Apple Việt Nam.\nCellphoneS hiện là đại lý bán lẻ uỷ quyền iPhone chính hãng VN/A của Apple Việt Nam",
+      "descLong": "Màu sắc phù hợp cá tính - 6 màu sắc bắt mắt để lựa chọn\nHiệu năng mượt mà, ổn định - Chip A13, RAM 4GB\nBắt trọn khung hình - Camera kép hỗ trợ góc rộng, chế độ Night Mode\nYên tâm sử dụng - Kháng nước, kháng bụi IP68, kính cường lực Gorilla Glass",
+      "amount": 1,
+      "id": 16
+    },
+    {
+      "img": "http://res.cloudinary.com/dv3vzmogk/image/upload/v1660006269/anhhtus/nm0qyieo0avpv7oecj6b.png",
+      "descShort": "Loại CPU  8 nhân CPU",
+      "name": "Tablet 2020",
+      "price": "19590000",
+      "salePrice": "19590000",
+      "categoryId": "3",
+      "highlight": "Máy mới 100%, đầy đủ phụ kiện từ nhà sản xuất. Sản phẩm có mã ZA/A (được Apple Việt Nam phân phối chính thức).",
+      "descLong": "Đỉnh cao công nghệ màn hình - Màn hình Liquid Retina, tần số quét 120Hz, True- Tone\nHiệu năng như máy tính - Vi xử lý M1, 8GB RAM\nChụp ảnh chất lượng, hỗ trợ AR tiên tiến - Camera kép 12MP, cảm biến LiDAR cao cấp\nKết nối tốc độ cao - Wifi 6.siêu tốc, sạc nhanh Thunderbolt 4",
+      "amount": 1,
+      "id": 17
+    },
+    {
+      "img": "http://res.cloudinary.com/dv3vzmogk/image/upload/v1660006417/anhhtus/recygeuchk4rkburhyxr.jpg",
+      "descShort": "Hãng sản xuất  Apple Chính hãng",
+      "name": " Imac iPad Pro 11 2020",
+      "price": "5800000",
+      "salePrice": "5800000",
+      "categoryId": "2",
+      "highlight": "Mới, đầy đủ phụ kiện từ nhà sản xuất\nBảo hành 12 tháng tại trung tâm bảo hành ủy quyền Chính hãng. 1 đổi 1 trong 15 ngày nếu có lỗi nhà sản xuất",
+      "descLong": "Bàn phím Smart Keyboard iPad Pro 11 2020 – Hỗ trợ công việc văn phòng chuyên nghiệp\nChắc hẳn bạn cũng đã biết, chiếc iPad Pro 11 2020 mới vừa được ra mắt cũng sở hữu khả năng biến thành một chiếc laptop nhờ vào hỗ trợ bàn phím rời. Do đó, để công việc của bạn được hoàn thành nhanh chóng hãy sở hữu ngay bàn phím không dây bluetooth Smart Keyboard iPad Pro 11 2020.",
+      "amount": 1,
+      "id": 18
+    }
+  ],
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$klOQksScWBg./MJsPqE3.O2wqYHIKXeyVYE1C8ofZTdEIsrmMOkVe",
+      "sdt": 123456789,
+      "id": 1
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$30XfUbVy2YrgceOyzOZc..vCjh3fNotxAXJ2YEVW3zPZecCCthc22",
+      "role": true,
+      "id": 2
+    },
+    {
+      "email": "admin@gmail.com1",
+      "password": "$2a$10$3KHvhupQGjCJbpEW5eZX9OESQdvLOE0uxa7Zwu1kvoEHyhD33e/uW",
+      "id": 3
+    },
+    {
+      "email": "admin@gmail.com2",
+      "password": "$2a$10$eeEZSIf1U2jygmcl1uMeoOptCAKNV4Ll9C3qM9ZzKyo3cPpyCXiAK",
+      "id": 4
+    },
+    {
+      "email": "miktendinh@gmail.com",
+      "password": "$2a$10$GoNHp26SoePgg8740L3w0eBosld68ZEcwALpHXqDVRuCAeqjkjFbm",
+      "sdt": "12345",
+      "role": false,
+      "id": 5
+    },
+    {
+      "email": "dinh@123.com",
+      "password": "$2a$10$RhUBl2vWxeI7hRLF3wmu3O9fOIhMslKtx2080Mj3Bu9jiOy7OlipO",
+      "sdt": "1321321321321321",
+      "role": false,
+      "id": 6
+    },
+    {
+      "email": "test1@fpt.com",
+      "password": "$2a$10$HBL81X8OT2hsPbxhSchtNeQUhepzy59.2rAQp0kUzRuCSmnNA/bzm",
+      "sdt": "1234421421",
+      "role": false,
+      "id": 7
+    },
+    {
+      "email": "test@gmail.com",
+      "password": "$2a$10$RRGyLrC8uNimIZcpNEgR3OFnfKlQJMg1VkHC4aN6P3h.fsVuvGo/y",
+      "sdt": "0321321321321",
+      "role": false,
+      "id": 8
+    }
+  ],
+  "carts": []
+}
